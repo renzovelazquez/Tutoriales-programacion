@@ -30,6 +30,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Alan Levy](https://www.youtube.com/c/AlanLevy-ElMago)
 
 ### Desarrollo profesional
+* [Pelado Nerd](https://www.youtube.com/c/PeladoNerd)
 * [Hola Mundo](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
 * [BettaTech](https://www.youtube.com/channel/UCSf6S_PAhXsqGMTPDiKgdRg)
 * [Juan Villalvazo](https://www.youtube.com/channel/UCsmEAwbV7WbYndpQKbY4Ntw)
