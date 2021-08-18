@@ -4,8 +4,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 
 ## Creadores de contenido por categoría
 
-- [Android](#android).
-- [Backend](#backend).
+- [Android](#android)
 - [Ciberseguridad](#ciberseguridad)
 - [Desarrollo profesional](#desarrollo-profesional)
 - [Frontend](#frontend)
